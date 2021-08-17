@@ -1,4 +1,4 @@
-# P.excavatus_Regeneration_Transcriptome
+# P.excavatus Regeneration Transcriptome Data
 
 =============================================================================
 
@@ -7,13 +7,13 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 ============================================================================
 
 
-———————————————
+---
 
 * e.g.
 [File Name]
 : Description
 
-———————————————
+---
 
 
 ### 1. De novo assembly - Trinity(v2.1.1)
