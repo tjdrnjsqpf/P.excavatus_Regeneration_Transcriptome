@@ -21,7 +21,7 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 [Perionyx_Reg_Draft_Trinity.fasta]
 : Draft de novo transcriptome assembly using Trinity(v2.1.1) (551,875 transcripts)
 
-
+---
 
 ### 2. Gene Prediction - TransDecoder(v3.0.0) & CD-HIT(v.4.6.5)
 
@@ -31,13 +31,14 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 [Perionyx_Reg_Removal_Redundant_prot.fasta]
 : Coding sequences (amino acid) sequences after Gene prediction and removing redundant 
 
+---
 
 ### 3. Expression level
 
 [Perionyx_Reg_EXP.tsv]
 : Expression level (TMM normalized FPKM) of 19 samples
 
-
+---
 
 ### 4. BUSCO analysis
 
@@ -47,7 +48,7 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 [Perionyx_Reg_BUSCO_metazoa.zip]
 : Results of BUSCO analysis (Metazoan single-copy orthologs)
 
-
+---
 
 ### 5. K-means clustering
 
@@ -57,7 +58,7 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 [Perionyx_Reg_Kmeans_Tail.zip]
 : Results of K-means clustering analysis during tail regeneration (FPKM & Z-score)
 
-
+---
 
 
 
