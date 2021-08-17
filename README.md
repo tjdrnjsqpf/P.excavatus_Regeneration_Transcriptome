@@ -21,12 +21,18 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 [Perionyx_Reg_Draft_Trinity.fasta]
 : Draft de novo transcriptome assembly using Trinity(v2.1.1) (551,875 transcripts)
 
+Unable to upload to github because the file size of the assembly is larger than 25MB.
+We will send it to you upon request by e-mail.
+
 ---
 
 ### 2. Gene Prediction - TransDecoder(v3.0.0) & CD-HIT(v.4.6.5)
 
 [Perionyx_Reg_Removal_Redundant_mRNA.fasta]
 : mRNA sequences (5’UTR + CDS + 3’UTR) after Gene prediction and removing redundant
+
+Unable to upload to github because the file size of the assembly is larger than 25MB.
+We will send it to you upon request by e-mail.
 
 [Perionyx_Reg_Removal_Redundant_prot.fasta]
 : Coding sequences (amino acid) sequences after Gene prediction and removing redundant 
