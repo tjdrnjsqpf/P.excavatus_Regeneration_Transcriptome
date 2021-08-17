@@ -34,6 +34,8 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 > Unable to upload to github because the file size of the assembly is larger than 25MB.
 > We will send it to you upon request by e-mail.   
 
+   
+   
 [Perionyx_Reg_Removal_Redundant_prot.fasta]
 : Coding sequences (amino acid) sequences after Gene prediction and removing redundant     
 
