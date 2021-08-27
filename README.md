@@ -22,7 +22,7 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 : Draft de novo transcriptome assembly using Trinity(v2.1.1) (551,875 transcripts)   
 
 > Unable to upload to github because the file size of the assembly is larger than 25MB.
-> We will send it to you upon request by e-mail.
+> We will send it to you upon request by e-mail. (sunggwonl22@gmail.com)
 
 ---
 
@@ -32,7 +32,7 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 : mRNA sequences (5’UTR + CDS + 3’UTR) after Gene prediction and removing redundant   
 
 > Unable to upload to github because the file size of the assembly is larger than 25MB.
-> We will send it to you upon request by e-mail.   
+> We will send it to you upon request by e-mail. (sunggwonl22@gmail.com)
  
 
 #### [Perionyx_Reg_Removal_Redundant_prot.fasta]
