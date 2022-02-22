@@ -57,15 +57,7 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 
 ---
 
-### 5. K-means clustering
 
-#### [Perionyx_Reg_Kmeans_Head.zip]
-: Results of K-means clustering analysis during head regeneration (FPKM & Z-score)   
-
-#### [Perionyx_Reg_Kmeans_Tail.zip]
-: Results of K-means clustering analysis during tail regeneration (FPKM & Z-score)   
-
----
 
 
 
