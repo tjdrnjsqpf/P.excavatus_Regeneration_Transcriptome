@@ -57,7 +57,16 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 
 ---
 
+### 5. Differentially expressed geens (DEGs) 
 
+#### [Perionyx_Reg_DEGs.xlsx]
+:the DEGs of bidirectional regeneration were clustered for head and tail specific during the regeneration by K-mean clustering(z-score).
 
+---
+
+### 6. Cluster analysis
+
+#### [Perionyx_Reg_three_main_cluster.xlsx]
+:Three main clusters (head or tail specific DEGs)
 
 
