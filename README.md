@@ -19,7 +19,7 @@ Atlas of the transcriptome dynamics during the bidirectional regeneration in Per
 ### 1. De novo assembly - Trinity(v2.1.1)
 
 #### [Perionyx_Reg_Draft_Trinity.fasta]
-: Draft de novo transcriptome assembly using Trinity(v2.1.1) (551,875 transcripts)   
+: Draft de novo transcriptome assembly using Trinity(v2.1.1) (525,376 transcripts)   
 
 > Unable to upload to github because the file size of the assembly is larger than 25MB.
 > We will send it to you upon request by e-mail. (sunggwonl22@gmail.com)
